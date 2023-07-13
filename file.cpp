@@ -1,1 +1,2 @@
-Danas je utorak
+Danas je utorak.
+Sutra je sreda.
